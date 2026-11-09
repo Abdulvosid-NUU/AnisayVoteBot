@@ -1,0 +1,6 @@
+.env
+requests.json
+requests.json.tmp
+requests.json.broken-*
+__pycache__/
+venv/
